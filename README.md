@@ -1,3 +1,5 @@
+I created this app to help companies record and sort through feedback given from their customers. The idea for Product Pulse originated from my experience as a Software Support Specialist where I would have regular contact with customers. Through working through a wide range of issues, I would received great feedback from the customers. The development team valued such feedback but not so much they wanted an email or another spur of the moment communication so Product Pulse was designed to help solve the issue of automating customer feedback.
+
 # Install
 
 `npm install`
